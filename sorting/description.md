@@ -7,5 +7,5 @@
   ## 稳定性：相同元素之间的相互顺序是否保持
 
 # 逆序算法
-  - 手动实现
-  - STL：next_permutation<>(Iterator, Iterator)
+  - 手动实现
+  - STL：next_permutation<>(Iterator, Iterator)
